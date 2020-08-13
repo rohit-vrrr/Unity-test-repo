@@ -1,2 +1,2 @@
-# Tap-Z-Tap-Game
-A Simple ZigZag Game using Unity
+# Unity test repo
+A repo to export the required files to other repositories
